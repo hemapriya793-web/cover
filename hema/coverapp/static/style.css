@@ -21,8 +21,8 @@ body {
 
 .border {
     border: 4px solid rgb(15, 15, 16);
-    margin: 25px;
-    height: 85%;
+    margin: -7px;
+    height: 95%;
     padding: 15px;
     position: relative;
 }

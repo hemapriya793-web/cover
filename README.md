@@ -60,10 +60,7 @@ Publish the website in the LocalHost.
             </div>
 
         </div>
-        <hr class="line">
-        <div class="div">
-            <p>SEC</p>
-        </div>
+        
     </div>
 </body>
 </html>
@@ -92,8 +89,8 @@ Publish the website in the LocalHost.
 
 .border {
     border: 4px solid rgb(15, 15, 16);
-    margin: 25px;
-    height: 85%;
+    margin: -7px;
+    height: 95%;
     padding: 15px;
     position: relative;
 }
@@ -167,7 +164,7 @@ h1 {
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (41).png>)
+![alt text](<Screenshot (43).png>)
 
     
    
